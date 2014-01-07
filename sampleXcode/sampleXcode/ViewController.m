@@ -17,6 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@"chaithra tv");
 //   sample branch comment
 //    added new comment
 	// Do any additional setup after loading the view, typically from a nib.
