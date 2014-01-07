@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSLog(@"sample nslog");
+    //NSLog(@"sample nslog");
     //NSLog(@"pull request");
     
 //   sample branch comment
