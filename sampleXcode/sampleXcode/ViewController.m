@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSLog(@"Vidyalaxmi");
+    NSLog(@"Vidyalaxmi shenoy");
 //   master branch comment
 //    added new comment
 	// Do any additional setup after loading the view, typically from a nib.
