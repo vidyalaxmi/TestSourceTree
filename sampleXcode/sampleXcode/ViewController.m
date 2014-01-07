@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
     NSLog(@"sample nslog");
+    NSLog(@"pull request");
 //   sample branch comment
 //    added new comment
 	// Do any additional setup after loading the view, typically from a nib.
