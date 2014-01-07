@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-//   master branch comment
+//   sample branch comment
 //    added new comment
 	// Do any additional setup after loading the view, typically from a nib.
 }
