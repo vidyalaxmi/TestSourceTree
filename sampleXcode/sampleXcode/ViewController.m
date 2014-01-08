@@ -10,6 +10,7 @@
 
 @interface ViewController ()
 @property (nonatomic,strong) NSString *testStr;
+@property (nonatomic,strong) NSArray *testArr;
 @end
 
 @implementation ViewController
